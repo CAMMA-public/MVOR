@@ -6,7 +6,7 @@
 
 
 # MVOR
-**A Multi-view RGB-D Operating Room Dataset for 2D and 3D Human Pose Estimation**
+**A Multi-view RGB-D Operating Room Dataset for 2D and 3D Human Pose Estimation (MICCAI-LABELS-2018)**
 
 _Vinkle Srivastav, Thibaut Issenhuth, Abdolrahim Kadkhodamohammadi, Michel de Mathelin, Afshin Gangi, Nicolas Padoy_
 
