@@ -27,6 +27,22 @@ $ unzip -q camma_mvor_dataset.zip && rm camma_mvor_dataset.zip
 $ # Install Python dependencies
 $ pip3 install -r $MVOR/requirements.txt
 ```
+The dataset directory should look as follows:
+```
+──$MVOR
+    ──camma_mvor_dataset
+        ├───day1
+        │   ├───cam1
+        │   │   ├───color
+        │   │   └───depth
+        │   ├───cam2
+        │   │   ├───color
+        │   │   └───depth
+        │   └───cam3
+        │       ├───color
+        │       └───depth
+
+```
 
 ### DATASET DESCRIPTION
 
