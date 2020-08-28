@@ -5,3 +5,5 @@ setuptools
 Cython
 opencv-python
 pycocotools
+torch
+torchvision
