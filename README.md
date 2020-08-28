@@ -16,7 +16,7 @@ _Vinkle Srivastav, Thibaut Issenhuth, Abdolrahim Kadkhodamohammadi, Michel de Ma
 This repository contains the link to download the dataset as well as visualization and evaluation scripts. 
 
 ### Download the MVOR dataset and install the dependencies
-The MVOR dataset is hosted on the [unistra S3 server](https://s3.unistra.fr/camma_public/datasets/mvor/camma_mvor_dataset.zip). Please download the dataset and install the dependencies using the commands given below.
+The MVOR dataset is hosted on the [unistra S3 server](https://s3.unistra.fr/camma_public/datasets/mvor/camma_mvor_dataset.zip). Please download the dataset and install the dependencies using the commands given below. We tested the code on the Ubuntu 16.04, Python 3.7, PyTorch 1.5.1, CUDA 10.1 using the NVIDIA GeForce GTX 1080 Ti GPU.
 
 ```bash
 $ MVOR=/path/to/mvor/repository
