@@ -23,7 +23,7 @@ $ MVOR=/path/to/mvor/repository
 $ git clone https://github.com/CAMMA-public/MVOR.git $MVOR
 $ cd $MVOR/
 $ #wget https://s3.unistra.fr/camma_public/datasets/mvor/camma_mvor_dataset.zip
-$ temporary link until S3 is fixed
+$ #temporary link until S3 is fixed
 $ wget --content-disposition https://seafile.unistra.fr/f/0579d58d95724bb88237/?dl=1
 $ unzip -q camma_mvor_dataset.zip && rm camma_mvor_dataset.zip
 $ # Install Python dependencies
