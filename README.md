@@ -8,7 +8,7 @@
 # MVOR
 **A Multi-view RGB-D Operating Room Dataset for 2D and 3D Human Pose Estimation (MICCAI-LABELS-2018)**
 
-_Vinkle Srivastav, Thibaut Issenhuth, Abdolrahim Kadkhodamohammadi, Michel de Mathelin, Afshin Gangi, Nicolas Padoy_
+_[Vinkle Srivastav](https://vinkle.github.io/), Thibaut Issenhuth, Abdolrahim Kadkhodamohammadi, Michel de Mathelin, Afshin Gangi, Nicolas Padoy_
 
 [![MVOR Dataset](https://img.shields.io/badge/MVOR-Dataset-blue)](http://camma.u-strasbg.fr/datasets/) [![arXiv](https://img.shields.io/badge/arxiv-1808.08180-red)](https://arxiv.org/abs/1808.08180) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CAMMA-public/MVOR/blob/master/mvor_demo.ipynb)
 
